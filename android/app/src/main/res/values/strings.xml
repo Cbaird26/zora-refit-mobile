@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zora Refit</string>
+    <string name="title_activity_main">Zora Refit</string>
+    <string name="package_name">io.cbaird26.zorarefit</string>
+    <string name="custom_url_scheme">io.cbaird26.zorarefit</string>
+</resources>

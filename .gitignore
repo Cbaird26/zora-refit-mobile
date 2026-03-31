@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+ios/.DS_Store
+ios/App/.DS_Store
+ios/App/App/.DS_Store
+ios/App/App/Assets.xcassets/.DS_Store
+ios/App/App.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+ios/App/App.xcodeproj/project.xcworkspace/xcuserdata/

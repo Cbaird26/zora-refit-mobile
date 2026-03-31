@@ -1,0 +1,17 @@
+{
+  "name": "Zora Refit",
+  "short_name": "Zora Refit",
+  "description": "Zora Refit mobile shell with an added Autopilot route-ranking surface.",
+  "display": "standalone",
+  "background_color": "#04050a",
+  "theme_color": "#04050a",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
