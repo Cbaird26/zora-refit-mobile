@@ -28,8 +28,6 @@ jobs:
           node-version: "20"
           cache: "npm"
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - name: Install
         run: npm install
       - name: Test
